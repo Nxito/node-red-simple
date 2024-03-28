@@ -1,0 +1,11 @@
+{
+  "name": "red-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "settings.js",
+  "scripts": {
+    "start": " node \"node_modules/node-red/red\"  --settings settings.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
